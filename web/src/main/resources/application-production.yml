@@ -1,0 +1,6 @@
+#Production configuration goes here!
+spring:
+  datasource:
+    url: "jdbc:mysql://127.0.0.1/wicket?autoReconnect=true&useSSL=false"
+    username: "root"
+    password: "wicket"

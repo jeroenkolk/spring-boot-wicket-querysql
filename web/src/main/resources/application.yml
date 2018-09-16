@@ -1,0 +1,10 @@
+wicket:
+  external:
+    webjars:
+      enabled: true
+    spring:
+      security: true
+
+spring:
+  liquibase:
+    change-log: classpath:liquibase/liquibase-changelog.xml
