@@ -34,8 +34,6 @@ However you can also configure it in [Intellij](https://www.jetbrains.com/idea/)
 
 #### Plugins for Intellij
 
-Plugins I used in visual studio code
-
 | Plugin | Page |
 | ------ | ------ |
 | Lombok | [Plugin Page](https://plugins.jetbrains.com/plugin/6317-lombok-plugin) |
