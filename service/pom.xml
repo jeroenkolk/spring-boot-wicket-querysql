@@ -11,6 +11,10 @@
 
     <artifactId>service</artifactId>
 
+    <properties>
+        <java.version>10</java.version>
+    </properties>
+
     <dependencies>
         <dependency>
             <groupId>com.jvdkolk</groupId>

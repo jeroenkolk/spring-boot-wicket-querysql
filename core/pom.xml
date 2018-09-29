@@ -11,6 +11,10 @@
 
     <artifactId>core</artifactId>
 
+    <properties>
+        <java.version>10</java.version>
+    </properties>
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
